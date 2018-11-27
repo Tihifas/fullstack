@@ -1,0 +1,6 @@
+[submodule "mod5ex"]
+	path = mod5ex
+	url = https://github.com/Tihifas/mod5ex
+[submodule "ex26_11"]
+	path = ex26_11
+	url = https://github.com/Tihifas/ex26_11.git
